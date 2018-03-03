@@ -5,10 +5,11 @@ body {
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
 }
 nav ul, footer ul {
+    text-transform: uppercase;
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: 200;
 }
 nav ul li, footer ul li {
     display: inline;
