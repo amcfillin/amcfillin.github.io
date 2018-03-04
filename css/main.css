@@ -4,8 +4,14 @@ body {
     width: 70%;
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
 }
-nav ul, footer ul {
+nav ul {
     text-transform: uppercase;
+    font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: 200;
+}
+footer ul {
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
     padding: 0px;
     list-style: none;
