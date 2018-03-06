@@ -22,8 +22,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 .picture_holder{ 
-    width: 250px;
-    height: 250px;
+    padding: 10px;
     float: right;
 }
 a {
