@@ -57,3 +57,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.picture_holder{
+    float: left;
+    }
