@@ -57,6 +57,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.picture_holder{
+    
+.picture_holder {
     float: right;
-    }
+}
