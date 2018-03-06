@@ -21,6 +21,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+.picture_holder{ 
+    width: 250px;
+    height: 250px;
+    float: right;
+}
 a {
     text-decoration: none;
     color: #999;
@@ -56,8 +61,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-    
-.picture_holder {
-    float: right;
 }
