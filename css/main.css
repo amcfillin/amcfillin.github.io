@@ -4,6 +4,11 @@ body {
     width: 60%;
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
 }
+
+nav{
+    background-color: chartreuse;
+}
+
 nav ul {
     text-transform: uppercase;
     font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
@@ -37,6 +42,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    background-color: white;
 }
 h1 {
     font-size: 3em;
