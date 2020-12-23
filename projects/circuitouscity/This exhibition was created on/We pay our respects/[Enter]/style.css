@@ -1,0 +1,166 @@
+
+body {
+  #background-color: rgb(231, 230, 230);
+  #font-family: serif, Georgia, "Times New Roman", Times;
+  font-family: open_sansregular, sans-serif, Helvetica, Arial;
+
+}
+
+p {
+  line-height: 1.25;
+  margin-bottom: 1rem;
+  font-size: 1.01rem;
+  text-align: justify;
+}
+
+.showBanner {
+  width: 50%;
+}
+
+ul {
+  line-height: 1.25;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+a {
+  color: blue;
+}
+
+.nav {
+  padding-right: 15px;
+  padding-left: 15px;
+  display: inline-block
+}
+
+.title {
+  #color: red;
+  #text-decoration: none;
+  padding-left: 15px;
+padding-right: 15px;
+}
+
+a:hover {
+  background-color: gray;
+  color: white;
+}
+
+b {
+  font-weight: 600;
+}
+
+#red {
+  color: red;
+}
+
+h3 {
+  font-family: serif, Georgia, "Times New Roman", Times;
+  font-style: italic;
+  font-weight: 300;
+  #color: red;
+  font-size: 48pt;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+h4 {
+  font-family: serif, Georgia, "Times New Roman", Times;
+  font-style: italic;
+  font-weight: 300;
+  color: black;
+  font-size: 1.8em;
+  text-align: left;
+  margin: 5px;
+}
+
+#wholepost {
+  width: 80%;
+  padding-left: 5px;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+#main {
+  text-align: justify;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border: 3px;
+ padding: 0 12px 0 12px;
+  margin: auto;
+  max-width: 900px;
+}
+
+#mainleft {
+  margin: auto;
+  max-width: 900px;
+  font-weight: 200;
+  padding: 0 12px 0 12px;
+}
+
+#cardtext {
+  line-height: 1.25;
+  margin-bottom: 1rem;
+  #font-size: 1.2rem;
+  text-align: justify;
+  margin: auto;
+  max-width: 900px;
+  font-weight: 200;
+}
+
+#cardimg {
+  max-width: 600px;
+  #max-width:100%;
+  max-height: 600px;
+  height:auto;
+  display: block;
+  #margin-left: auto;
+  margin-right: auto;
+  #margin-bottom: 5%;
+  }
+  
+
+#mapimg {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  #margin-top: 12px;
+  }
+
+#map {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 800px;
+}
+
+#question {
+  padding-top: 150px;
+}
+
+#nav {
+  margin-top: 5%;
+  margin-bottom: 2%;
+  width: 100%;
+  font-size: 14pt;
+  font-weight: 200;
+  text-align: center;
+  font-family: serif, Georgia, "Times New Roman", Times;
+}
+
+.subtitle {
+  font-size: 0.9rem;
+}
+
+footer {
+  margin:auto;
+  max-width: 900px;
+  margin-top: 4%;
+  text-align: center;
+}
